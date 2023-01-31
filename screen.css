@@ -1,1 +1,115 @@
 /* Add screen styles below */
+
+body {
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+  color: #424242;
+}
+
+main {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.navbar {
+  background: no-repeat;
+  color: #424242;
+  display: flex;
+  justify-content: space-around;
+  width: fit-content;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+#photos {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+
+
+.photo-1 {
+  background: bottom / cover url('images/188A3253.jpeg');
+  height: 400px;
+  width: 400px;
+
+}
+
+
+.details {
+  height: 400px;
+  width: 400px;
+}
+
+
+.photo-2 {
+  background: bottom / cover url('images/IMG_0015.jpeg');
+  height: 400px;
+  width: 400px;
+  
+}
+
+.photo-3 {
+  background: bottom / cover url('images/66183041468__21D9BBF5-FC28-4673-A853-473B3F3255EB.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+.photo-4 {
+  background: bottom / cover url('images/IMG_0711.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+.photo-5 {
+  background: bottom / cover url('images/IMG_0650.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+.photo-6 {
+  background: bottom / cover url('images/IMG_0508.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+.photo-7 {
+  background: bottom / cover url('images/IMG_0032.jpeg');
+  height: 400px;
+  width: 400px;
+}
+.photo-8 {
+  background: bottom / cover url('images/indy.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+.photo-9 {
+  background: bottom / cover url('images/IMG_0942.jpeg');
+  height: 400px;
+  width: 400px;
+}
+
+
+
+.description h2 {
+  background-color: #424242;
+  color: aliceblue;
+  text-align: center;
+  margin: 100px 0 25px 0;
+
+}
+
+.description p {
+  background-color: #424242;
+  color: #fff;
+  margin: 0;
+  line-height: 1.4em;
+
+}
