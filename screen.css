@@ -38,6 +38,7 @@ h1 {
   background: bottom / cover url('images/188A3253.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 
 }
 
@@ -45,6 +46,7 @@ h1 {
 .details {
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 
@@ -52,6 +54,7 @@ h1 {
   background: bottom / cover url('images/IMG_0015.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
   
 }
 
@@ -59,41 +62,48 @@ h1 {
   background: bottom / cover url('images/66183041468__21D9BBF5-FC28-4673-A853-473B3F3255EB.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 .photo-4 {
   background: bottom / cover url('images/IMG_0711.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 .photo-5 {
   background: bottom / cover url('images/IMG_0650.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 .photo-6 {
   background: bottom / cover url('images/IMG_0508.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 .photo-7 {
   background: bottom / cover url('images/IMG_0032.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 .photo-8 {
   background: bottom / cover url('images/indy.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 .photo-9 {
   background: bottom / cover url('images/IMG_0942.jpeg');
   height: 400px;
   width: 400px;
+  border-radius: 10px;
 }
 
 
@@ -111,6 +121,5 @@ h1 {
   color: #fff;
   margin: 0;
   line-height: 1.4em;
-  padding: 10px;
 
 }
